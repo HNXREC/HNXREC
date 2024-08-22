@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @HNXREC
+# 👋 Hi, I’m @HNX
 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Automation.
 - 🌱 I’m currently learning advanced AI techniques and their real-world applications.
